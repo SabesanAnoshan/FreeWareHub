@@ -1,0 +1,54 @@
+[
+  {
+    "id": "vlc",
+    "name": "VLC Media Player",
+    "version": "3.0.23 ",
+    "developer": "VideoLAN",
+    "license": "GPL",
+    "category": "Multimedia",
+    "platforms": [
+      "Windows",
+      "Linux",
+      "macOS"
+    ],
+    "description": "Free and open-source multimedia player supporting a wide range of audio and video formats.",
+    "updated": "2026-01-01",
+    "popular": true,
+    "officialUrl": "https://www.videolan.org/vlc/",
+    "downloadUrl": "https://www.videolan.org/"
+  },
+
+  {
+    "id": "Microsoft Office 2019 Pro Plus",
+    "name": "Microsoft Office 2019 Pro Plus",
+    "version": "3.0.23 ",
+    "developer": "Microsoft",
+    "license": "EULA",
+    "category": "Office",
+    "platforms": [
+      "Windows"
+    ],
+    "description": "Microsoft Office 2019 is a productivity suite released on September 24, 2018, available as a one-time perpetual purchase rather than a subscription.",
+    "updated": "2018-8-24",
+    "popular": true,
+    "officialUrl": "https://getintopc.com/softwares/office-tools/microsoft-office-2019-pro-plus-nov-2020-free-download-9980958/",
+    "downloadUrl": "https://getintopc.com/softwares/office-tools/microsoft-office-2019-pro-plus-nov-2020-free-download-9980958/"
+  },
+
+  {
+    "id": "Microsoft Office 2019 Pro Plus",
+    "name": "Microsoft Office 2019 Pro Plus",
+    "version": "3.0.23 ",
+    "developer": "Microsoft",
+    "license": "EULA",
+    "category": "Office",
+    "platforms": [
+      "Windows"
+    ],
+    "description": "Microsoft Office 2019 is a productivity suite released on September 24, 2018, available as a one-time perpetual purchase rather than a subscription.",
+    "updated": "2018-8-24",
+    "popular": true,
+    "officialUrl": "https://getintopc.com/softwares/3d-visualization/adobe-illustrator-2024-free-download/",
+    "downloadUrl": "https://getintopc.com/softwares/3d-visualization/adobe-illustrator-2024-free-download/"
+  }
+]
